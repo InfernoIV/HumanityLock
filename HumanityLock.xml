@@ -8,7 +8,7 @@
 	<entry key="Timing.PickPocketTimeMax">5</entry>
 	<entry key="Chance.holdingItemChance">10</entry>
 	<entry key="Chance.hotbarChance">30</entry>
-	<entry key="Chance.inventroyChance">60</entry>
+	<entry key="Chance.inventoryChance">60</entry>
 	<entry key="Material.stoneUses">1</entry>
 	<entry key="Material.ironUses">5</entry>
 	<entry key="Material.goldUses">15</entry>
