@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+   <properties> 
+	<entry key="HumanityLock.debug">0</entry>
+        <entry key="Timing.LockPickTimeMin">5</entry>
+	<entry key="Timing.LockPickTimeMax">10</entry>
+	<entry key="Timing.PickPocketTimeMin">2</entry>
+	<entry key="Timing.PickPocketTimeMax">5</entry>
+	<entry key="Chance.holdingItemChance">10</entry>
+	<entry key="Chance.hotbarChance">30</entry>
+	<entry key="Chance.inventroyChance">60</entry>
+	<entry key="Material.stoneUses">1</entry>
+	<entry key="Material.ironUses">5</entry>
+	<entry key="Material.goldUses">15</entry>
+	<entry key="Material.diamondUses">50</entry>
+   </properties>
