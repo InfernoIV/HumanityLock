@@ -1,21 +1,15 @@
-A key based locking system (normal and double chests) for Minecraft.
-
-Just copy the HumaniyLock.jar into your plugins folder.
+A key based locking system with thieving for Minecraft.
 
 prerequisites:
 Bukkit.
 
+This plugin adds a layer of roleplay: it inculdes:
+Chests
+Iron doors
+Keys
+and Lockpicks.
 
-How to use:
-Just spawn a chest and you'll recieve a written book.
-The written book is the key to that chest.
+Chests and doors can be openend with the corresponding key or lockpick.
 
-The coordinates of the chest are displayed in the lore of the book.
-To change the name of the book:
-Hold the book in your hand and type "/key <name>".
-
-Note that with double chests you won't recieve another key, 
-but the original key / chest can only be accessed.
-
-
-When your inventory is full, the key will be dropped on the ground.
+Wiki:
+https://github.com/InfernoIV/HumanityLock/wiki
